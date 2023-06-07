@@ -24,8 +24,8 @@ To run the Set Game Java implementation, follow these steps:
 2. Clone or download this repository to your local system.
 3. Open a command prompt or terminal and navigate to the project directory.
 4. Compile the Java source file by executing the following command: 
-''' javac SetGame.java '''
+``` javac SetGame.java ```
 
 Run the compiled program by executing the following command:
-''' java SetGame ''' 
+``` java SetGame ```
 
